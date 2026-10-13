@@ -100,9 +100,14 @@ This demonstrated that a service listening on a Windows machine may not be reach
 * How to document technical findings for a cybersecurity portfolio.
 
 
+
+
+
 LAB EVIDENCE
 NMAP DETTECTION SCAN 
+
+
 ![nmap service scan](./image.png)
 
-
+![more detailed service scan with version and ports opened](./2026-09-30 13_42_25-kali linux [Running] - Oracle VirtualBox.png) 
 
