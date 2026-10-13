@@ -109,5 +109,5 @@ NMAP DETTECTION SCAN
 
 ![nmap service scan](./image.png)
 
-![more detailed service scan with version and ports opened](./2026-09-30 13_42_25-kali linux [Running] - Oracle VirtualBox.png) 
+![more detailed service scan with version and ports opened](2026-09-30) 
 
