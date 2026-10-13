@@ -100,4 +100,7 @@ This demonstrated that a service listening on a Windows machine may not be reach
 * How to document technical findings for a cybersecurity portfolio.
 
 
+LAB EVIDENCE
+NMAP DETTECTION SCAN 
+
 
