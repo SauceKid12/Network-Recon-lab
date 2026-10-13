@@ -102,5 +102,8 @@ This demonstrated that a service listening on a Windows machine may not be reach
 
 LAB EVIDENCE
 NMAP DETTECTION SCAN 
+Network-Recon-lab
+![nmap service scan](2026-09-30 13_42_25-kali linux [Running] - Oracle VirtualBox.png)
+
 
 
