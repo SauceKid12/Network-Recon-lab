@@ -109,5 +109,5 @@ NMAP DETTECTION SCAN
 
 ![nmap service scan](./image.png)
 
-![more detailed service scan with version and ports opened](2026-09-30) 
+![more detailed service scan with version and ports opened](./image2y.png) 
 
